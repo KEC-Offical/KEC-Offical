@@ -2,10 +2,10 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/keremefecelik/)](https://www.twitter.com/keremefecelik/)
 [![Instagram](https://img.shields.io/badge/-Instagram-FD087E?style=flat&labelColor=FD087E&logo=instagram&logoColor=white&link=https://www.instagram.com/kec_ofc/)](https://www.instagram.com/kec_ofc/) 
 [![Web Server Status](https://img.shields.io/website?down_message=Inactive&label=Web%20Servers&up_message=Active&url=https%3A%2F%2Fkeremefecelik.ga)](https://status.keremefecelik.ga)
-![Web Server Status](https://img.shields.io/github/sponsors/KEC-Offical)
+![GitHub Sponsor Count](https://img.shields.io/github/sponsors/KEC-Offical)
 
 
 👋 Hi! I'm Kerem, welcome to the my GitHub profile.
 
-- :books: I’m currently learning Node.js, HTML and CSS...
-- :pushpin: I'm interests at Discord bot developing, profile sites, etc.
+- 🎓 I’m currently learning Node.js, HTML and CSS...
+- :pushpin: I'm interests at Discord bots, personal sites, etc.
