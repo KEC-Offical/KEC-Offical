@@ -1,14 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>KEC</title>
-  <link rel="icon" type="image/png" href="https://cdn.discordapp.com/attachments/889971552613961830/1050821377344667728/Adsz_tasarm_14.png">
-  <meta name="viewport"
-      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-<link rel="stylesheet" href="css/style.css">
-
-</head>
 <body>
 <!-- partial:index.partial.html -->
 <div class="wrapper">
