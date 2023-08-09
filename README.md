@@ -1,3 +1,3 @@
 ## KEC
 
-👋 Hi! I'm Kerem, welcome to the my GitHub profile.
+👋 Hello! I'm Kerem, welcome to the my GitHub profile.
